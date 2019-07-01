@@ -1,4 +1,6 @@
-# Ng7
+# Angular Example
+
+Projeto desenvolvido a partir do curso [Learn Angular 7 in 50 Minutes - A Free Beginner's Crash Course](https://www.youtube.com/watch?v=5wtnKulcquA) de Gary Simon, utilizando alguns conceitos básicos do Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
